@@ -11,8 +11,5 @@ Today, the globe wastes or loses nearly a third of the food it generates, while 
 ### Let’s focus on loss percentage of millets in this dataset
 ## [View Dataset](https://www.fao.org/statistics/databases/en/)
 ## SUMMARY
-
-
-
-LIMITATION:![image](https://user-images.githubusercontent.com/122256718/215282023-84b36f04-251e-4c89-a051-723b8a02995c.png)
+![image](https://user-images.githubusercontent.com/122256718/215282023-84b36f04-251e-4c89-a051-723b8a02995c.png)
 
