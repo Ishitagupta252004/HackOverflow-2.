@@ -14,4 +14,5 @@ Today, the globe wastes or loses nearly a third of the food it generates, while 
 
 
 
-LIMITATION:
+LIMITATION:![image](https://user-images.githubusercontent.com/122256718/215282023-84b36f04-251e-4c89-a051-723b8a02995c.png)
+
