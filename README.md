@@ -1,4 +1,4 @@
-# HackOverflow-2.
+# HackOverflow-2.O
 
 ## Preventing wastage by sales prediction - (Food Management)
 ---
